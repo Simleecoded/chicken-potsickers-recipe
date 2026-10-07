@@ -7,7 +7,6 @@ A delicious and simple Chinese chicken potsticker recipe perfect for sharing wit
 ![Chicken potstickers](https://www.spoonforkbacon.com/wp-content/uploads/2019/01/ginger_chicken_potstickers_recipe-1.jpg)
 
 ## Technologies Used
-
 -HTML
 
 ## Features
@@ -18,11 +17,11 @@ A delicious and simple Chinese chicken potsticker recipe perfect for sharing wit
 
 ## What I Learned
 
-- Structuring a webpage using HTML
-- Using headings and sections
-- Adding images and links
-- Creating ordered and unordered lists
-- Using Git and Github to track my work
+-Structuring a webpage using HTML
+-Using headings and sextions
+-Adding images and links
+-creating ordered and unordered lists
+-Using Git and Github to track my work
 
 ## Future Improvements
 
