@@ -17,7 +17,7 @@ A delicious and simple Chinese chicken potsticker recipe perfect for sharing wit
 
 ## What I Learned
 
--Structuring a webpage using HTML
+git-Structuring a webpage using HTML
 -Using headings and sextions
 -Adding images and links
 -creating ordered and unordered lists
